@@ -6,5 +6,6 @@
         "savePath":null,
         "savePathReplacementPairs":null
     }
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
